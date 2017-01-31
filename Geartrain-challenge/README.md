@@ -31,5 +31,5 @@
 
 ![Settings](./img/Gear-settings-inkscape-gear-generator.jpg)
 
-[Download InkScape](www.inkscape.org)
+[Download InkScape](https://inkscape.org/en/download/)
 
